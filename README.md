@@ -11,3 +11,6 @@ Example:
 
 Result:
 
+<img src="readMeImages\2.png"></img>
+
+Full reulting cpp file can be viewed in the repository (res.exe)
