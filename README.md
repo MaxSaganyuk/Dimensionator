@@ -7,3 +7,7 @@ Open the exe file and follow the instructions. The result is going to be an res.
 
 Example:
 
+<img src="readMeImages\1.png"></img>
+
+Result:
+
